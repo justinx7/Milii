@@ -12,14 +12,14 @@
 const CONFIG = {
 
   // Nombre de tu novia
-  nombreDeElla: "yurii",
+  nombreDeElla: "miliii",
 
   // Tu nombre
   nombreDeEl: "yo",
 
   // Fecha especial
   // Formato: AAAA-MM-DDTHH:mm:ss
-fechaEspecial: "2026-10-21T00:00:00",
+fechaEspecial: "2026-10-17T00:00:00",
 
   // Carta romántica
   mensaje: `Desde que llegaste a mi vida, muchas cosas tienen un brillo diferente.
